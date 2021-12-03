@@ -1,0 +1,28 @@
+.textobotonborrar{
+    border-radius: 5px;
+    background-color: black;
+    border-color: red;
+    color: red;
+
+}
+.buttonsizes{
+    width: 60px;
+    padding: 15px;
+}
+
+.input{
+    background-color: black;
+    padding: 8px;
+    width: 190px;
+    border-color: #FF7EE0;
+    ;
+   }
+.input2{
+    background-color: black;
+    padding: 8px;
+    width: 190px;
+    border-color: #88FFC7;
+}
+h3{
+    text-align: right ;
+}
