@@ -15,14 +15,16 @@
     padding: 8px;
     width: 190px;
     border-color: #FF7EE0;
-    ;
+    border-radius: 5px;
    }
 .input2{
     background-color: black;
     padding: 8px;
     width: 190px;
     border-color: #88FFC7;
+    border-radius: 5px;
 }
 h3{
     text-align: right ;
 }
+
